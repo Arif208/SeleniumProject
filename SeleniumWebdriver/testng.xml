@@ -1,0 +1,12 @@
+<Suite name ='Practise' >
+<Test name = 'TestNg_Practise'>
+<classes>
+   <class name = 'testNGDemo'>
+    <method>
+   <include name = 'operations'>
+     </include>
+   </method>
+ </class>
+</classes>
+</Test>
+</Suite>
